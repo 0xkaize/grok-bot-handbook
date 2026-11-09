@@ -1,12 +1,7 @@
-# grok-bot-handbook
-
 # Grok Bot Handbook
 
 Practical A-to-Z guide to xAI's Grok Bot: install, plans, Cursor workflow,
 multi-bot setups, routines, security and the technical side.
-
-> Facts last verified: 2026-11-09. Grok Bot is in beta — see CHANGELOG.md.
-> Not affiliated with xAI.
 
 ## Start here
 1. [What Grok Bot is](00-intro/what-is-grok-bot.md)
@@ -31,7 +26,6 @@ multi-bot setups, routines, security and the technical side.
 | 12 | Troubleshooting & FAQ | all | soon |
 
 ## Related
-- Prompt library: <link>
 - Grokverse - catalog of Grok Bots: https://www.grokverse.io/
 
 ## Contributing
