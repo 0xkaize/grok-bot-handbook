@@ -2,7 +2,7 @@
 
 # 🛰️ Grok Bot Road Map
 
-**From A (install & plans) to Я (internals & webhooks): one file to learn, set up and master xAI's Grok Bot.**
+**From A (install & plans) to Z (internals & webhooks): one file to learn, set up and master xAI's Grok Bot.**
 
 Here we collect and discuss the best Grok Bot docs, guides, tools, plugins, research and battle-tested patterns. Contributions are welcome.
 
@@ -36,7 +36,7 @@ Feel free to submit a pull request with anything from small fixes to translation
 | **H** | hand coding work to Cursor cloud agents, use Grok Build next to your Bots | [Grok Bot × Cursor](#cursor) |
 | **I** | read your usage meter, set spend caps, cut wasted usage | [Usage & limits](#usage) |
 | **J** | explain the shared-computer risk and set approval rules before giving access | [Security](#security) |
-| **Я** | understand the VM, model routing, webhooks, rate limits and build your own integrations | [Я · Internals](#internals) |
+| **Z** | understand the VM, model routing, webhooks, rate limits and build your own integrations | [Z · Internals](#internals) |
 
 ---
 
@@ -60,7 +60,7 @@ Feel free to submit a pull request with anything from small fixes to translation
 | L · Use cases & recipes | [Explore](#recipes) |
 | M · Reviews & comparisons | [Explore](#reviews) |
 | N · Video & long-form tutorials | [Explore](#videos) |
-| Я · Internals & technical deep dive | [Explore](#internals) |
+| Z · Internals & technical deep dive | [Explore](#internals) |
 | Troubleshooting | [Explore](#troubleshooting) |
 | Glossary | [Explore](#glossary) |
 | Stay updated | [Explore](#stay-updated) |
@@ -83,7 +83,7 @@ Feel free to submit a pull request with anything from small fixes to translation
 - [Grokverse](https://www.grokverse.io/) - a collection of Grok Bots you can browse and add
 - [My X account](https://x.com/0x_kaize)
 
-**Machine-readable docs (huge time saver):** every page of docs.x.ai is available as Markdown by appending `.md` to its URL, there is a full index at [llms.txt](https://docs.x.ai/llms.txt), and an [MCP server for the docs](https://docs.x.ai/api/mcp) you can plug into Cursor, Claude Code or Grok Build. See [Я · Internals](#internals).
+**Machine-readable docs (huge time saver):** every page of docs.x.ai is available as Markdown by appending `.md` to its URL, there is a full index at [llms.txt](https://docs.x.ai/llms.txt), and an [MCP server for the docs](https://docs.x.ai/api/mcp) you can plug into Cursor, Claude Code or Grok Build. See [Z · Internals](#internals).
 
 ---
 
@@ -358,7 +358,7 @@ Propose a new specialist Bot when the same kind of task shows up 3+ times.
 - Slack: Bot mentioned, phrase mentioned, your reaction, or any message, in one channel or all of Slack
 - GitHub, Linear, Sentry or PagerDuty events
 - An email to your [Bot's own address](https://docs.x.ai/grok-bot/computer-and-apps)
-- A webhook call (see [Я · Internals](#internals))
+- A webhook call (see [Z · Internals](#internals))
 
 **Hard limits worth memorizing:**
 
@@ -665,7 +665,7 @@ grok          # interactive session; /marketplace to browse plugins
 ---
 
 <a id="internals"></a>
-## Я · Internals & technical deep dive
+## Z · Internals & technical deep dive
 
 ### Architecture
 
