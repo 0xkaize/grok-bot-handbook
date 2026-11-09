@@ -27,16 +27,3 @@ multi-bot setups, routines, security and the technical side.
 
 ## Related
 - Grokverse - catalog of Grok Bots: https://www.grokverse.io/
-
-## Contributing
-
-- One guide = one task. Use `templates/guide.md`.
-- Every fact about plans, prices, limits or UI needs a source link
-  or your own screenshot.
-- Update `verified:` and `app_version:` whenever you re-test a guide.
-- Screenshots: PNG, max 1600px wide, blur emails, tokens and wallet addresses.
-- Recipes: use `templates/recipe.md`, test the bot for at least 3 runs.
-- Commit style: `docs(01): add plan comparison`, `fix(09): update approvals`.
-
-## License
-Code & templates: MIT. Text: CC BY 4.0.
