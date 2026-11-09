@@ -32,7 +32,7 @@ multi-bot setups, routines, security and the technical side.
 
 ## Related
 - Prompt library: <link>
-- Grokverse — catalog of Grok Bots: <link>
+- Grokverse - catalog of Grok Bots: https://www.grokverse.io/
 
 ## Contributing
 
